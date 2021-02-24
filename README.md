@@ -1,4 +1,4 @@
-# How to copy files from a server to other server in php
+# How to copy files from a server to other server in php with ftp
 How do you copy or move your files from a server to another server?
 do you download them into your computer, then again you upload on other servers? ;-)
 
