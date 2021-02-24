@@ -1,5 +1,5 @@
 <?php
-$host= '49.12.128.156';
+$host= 'ftp_host';
 $user = 'ftp_user';
 $src__dir = '/home/idehwebc/public_html';
 $des__dir = '/public_html';
